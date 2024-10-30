@@ -1,0 +1,88 @@
+				.custom-search-filter {
+					width: 100%;
+					display: block;
+					clear: both;
+
+				}
+				
+				.custom-search-filter label {
+					font-weight: bold;
+					padding: 0 0 20px;
+					text-align: center;
+				}
+				
+				.cc-clr {
+					display: block;
+					clear: both;
+					content: "";
+				}
+				
+				.custom-search-filter .form-group  {
+					margin-top: 15px;
+					width: 200px;
+					height: auto;
+					display: block;
+				}
+				
+				.custom-search-filter .form-group input {
+					border-radius: 4px;
+					padding: 10px;
+				}
+
+				.custom-search-filter  .s-red {
+					background-color: #B70000 !important;
+					border: 1px solid #6B0000 !important;
+					display: block;
+					clear: both;
+					font-size: 40px;
+					font-weight: 900;
+					width: 100%;
+					color: #fff;
+					-webkit-transition: all 0.6s ease;
+					-moz-transition: all 0.6s ease;
+					-o-transition: all 0.6s ease;
+					-ms-transition: all 0.6s ease;
+					transition: all 0.6s ease;
+					font-family: 'Montserrat', sans-serif;
+					text-shadow: 2px 2px #333;
+				}
+
+				.custom-search-filter h2  {
+					font-family: 'Montserrat', sans-serif;
+					font-weight: 900;
+					font-size: 20px;
+				}
+
+				.s-red:hover {
+					background-color: red !important;
+				}
+
+				.custom-search-filter .btn {
+					text-align: center;
+					line-height: 80px;
+				}
+
+				.custom-search-filter  a {
+					text-decoration: none;
+				}
+
+				.custom-search-filter h1 {
+					font-size: 44px;
+					padding: 30px 0 30px 0;
+					text-align: center;
+				}
+				
+				.custom-search-filter .ss-logo {
+					position: relative;
+					top: 12px;
+					width: 60px;
+					height: 60px;
+				}
+				
+				#custom-search-filter_wrap  strong {
+					padding: 10px 0 5px 0 !important;
+					font-size: 20px;
+				    font-family: 'Montserrat', sans-serif;
+					display: block;
+					clear: both;					
+				}

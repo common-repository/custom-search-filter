@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Custom Search Filter\n"
+"POT-Creation-Date: 2016-09-24 22:11+0300\n"
+"PO-Revision-Date: 2016-09-24 22:11+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: custom-search-filter.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom-search-filter.php:54
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: custom-search-filter.php:57
+msgid "Search Filter:"
+msgstr ""
+
+#: custom-search-filter.php:73
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: custom-search-filter.php:94
+msgid "Custom Search Filter"
+msgstr ""
+
+#: custom-search-filter.php:103
+msgid "Read"
+msgstr ""
+
+#: custom-search-filter.php:103
+msgid " More"
+msgstr ""
+
+#: custom-search-filter.php:109
+msgid "Add Shortcode:"
+msgstr ""
+
+#: custom-search-filter.php:117
+msgid "Search Filter Title: "
+msgstr ""
+
+#: custom-search-filter.php:125
+msgid "Search Text 1: "
+msgstr ""
+
+#: custom-search-filter.php:133
+msgid "Search Text 2: "
+msgstr ""
+
+#: custom-search-filter.php:141
+msgid "Search Text 3: "
+msgstr ""
+
+#: custom-search-filter.php:149
+msgid "Search Text 4: "
+msgstr ""
+
+#: custom-search-filter.php:157
+msgid "Search Text 5: "
+msgstr ""
+
+#: custom-search-filter.php:165
+msgid "Search Text 6: "
+msgstr ""
+
+#: custom-search-filter.php:173
+msgid "Search Text 7: "
+msgstr ""
+
+#: custom-search-filter.php:181
+msgid "Search Text 8: "
+msgstr ""
+
+#: custom-search-filter.php:189
+msgid "Search Text 9: "
+msgstr ""
+
+#: custom-search-filter.php:197
+msgid "Search Text 10: "
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.seosthemes.com/custom-search-filter/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Custom Search Filter WordPress plugin allows you to search products or "
+"custom text."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
